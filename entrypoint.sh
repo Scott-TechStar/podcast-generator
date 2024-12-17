@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Starting Feed.py.........."
+
 echo "====================="
 
 git config --global user.name "${GITHUB_ACTOR}"
